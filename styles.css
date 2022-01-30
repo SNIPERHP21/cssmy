@@ -1,0 +1,131 @@
+.topcontainer {
+  background-color: #7C99AC;
+}
+
+div {
+  background-color: #D3DEDC;
+}
+
+h1 {
+  margin: 70px auto 0 auto;
+  color: #160040;
+  font-family: 'Comforter', cursive;
+  width: 55%;
+  font-size: 6.25rem;
+}
+
+hr {
+  border: dotted #160040 10px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+
+.cont {
+  width: 45%;
+  margin: 2px auto 10px auto;
+}
+
+h2 {
+  color: #470D21;
+  font-family: 'Comforter', cursive;
+  font-size: 3.75rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #470D21;
+  font-family: 'Comforter', cursive;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.xyz {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+a {
+  color: #160040;
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px 30px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+body {
+  color: #323232;
+  margin: 0;
+  text-align: center;
+  font-size: 1.25rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.webdev {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+.btn {
+  background: #a9c6d9;
+  background-image: -webkit-linear-gradient(top, #a9c6d9, #465863);
+  background-image: -moz-linear-gradient(top, #a9c6d9, #465863);
+  background-image: -ms-linear-gradient(top, #a9c6d9, #465863);
+  background-image: -o-linear-gradient(top, #a9c6d9, #465863);
+  background-image: linear-gradient(to bottom, #a9c6d9, #465863);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #0d1413;
+  font-size: 27px;
+  margin: 50px 50px 50px 50px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #010a0f;
+  background-image: -webkit-linear-gradient(top, #010a0f, #ff0000);
+  background-image: -moz-linear-gradient(top, #010a0f, #ff0000);
+  background-image: -ms-linear-gradient(top, #010a0f, #ff0000);
+  background-image: -o-linear-gradient(top, #010a0f, #ff0000);
+  background-image: linear-gradient(to bottom, #010a0f, #ff0000);
+  text-decoration: none;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 300px;
+}
+
+.cloud-top {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.topcontainer {
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #7C99AC;
+  padding: 10px 0 20px;
+}
+.copy{
+  color: white;
+  font-size: 1rem;
+  padding: 20px 0;
+}
